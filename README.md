@@ -13,6 +13,8 @@ Before starting the workshop, make sure you have the following:
 - [kubectl](https://kubernetes.io/docs/tasks/tools/) installed
 - Basic understanding of Kubernetes concepts
 - Terminal access
+- Optional: GitHub account
+- Optional: AWS Account
 
 ## Workshop Outline
 
